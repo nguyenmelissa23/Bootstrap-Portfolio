@@ -1,0 +1,147 @@
+h1 {
+	font-weight: bold;
+	padding: 20px;
+	background-color:#4aaaa5; 
+	font-size: 30px;
+	text-align: center;
+	margin:0;
+	margin-left: -82px;
+	margin-right: 95px;
+	color: white;
+}
+
+body{
+	background-image: url("bgwood.jpg") ;
+	font-family: 'Arial', sans-serif;
+	font-color: #777777;
+}
+
+#topspace {
+	height: 40px;
+}
+
+#links {
+	padding-bottom: 15px;
+}
+
+article, aside{
+	background-color: white;
+}
+
+h2.page-header, h3.page-header{
+	color: #777;
+}
+
+form{
+	color:#077c7a;
+}
+
+#main, #links {
+	margin:15px;
+}
+
+.thumbnail1{
+	padding: 0px;
+	width: 50px;
+	border: none;
+}
+
+#profile {
+	width: 100px;
+	margin: 0 20px 10px 0;
+	float: left;
+}
+
+h2.page-header {
+	border-bottom: 3px solid #ccc;
+	margin-top: 10px;
+}
+
+h3.page-header{
+	border-bottom: 3px solid #ccc;	
+	margin-top: 10px;
+}
+
+.center, aside {
+	text-align: center;
+}
+
+footer {
+	width: 100%;
+	background-color: #666666;
+	text-align: center;
+	color: white;
+}
+
+footer>p{
+	padding-top: 12px;
+}
+
+.container-fluid{
+	width: 960px;
+}
+
+.align{
+	width: 100%;
+	background-color: white;
+}
+
+.topspace {
+	margin-top:40px;
+}
+
+div.col-xs-5{
+	padding-left: 0;
+	padding-right: 0;
+}
+
+header {
+	width: 110%;
+	background-color: white;
+	border-bottom: 3px solid #ccc;
+	margin-right: 0px;
+}
+
+.thumnail2{
+	position: relative;
+	padding: 0;
+	margin:0;
+	
+}
+
+div.caption a h3{
+	color: white;
+}
+
+.caption{
+	position: absolute;
+	top: 45%;
+	left: 15px;
+	width: 220px;
+	background-color:#4aaaa5;
+	text-align: center;
+	color: white;
+	height: 60px;
+}
+
+img#p1, img#p2, img#p3, img#p4{
+	width: 220px;
+	height: 150px;
+	margin-top: 10px
+}
+
+nav.col-sm-offset-4.col-sm-4{
+	margin-top: 10px;
+}
+
+img#p1{
+	margin-left:-1px;
+}
+
+img#p3{
+	margin-left:-15px;
+}
+
+img#p4{
+	margin-left: -15px;
+}
