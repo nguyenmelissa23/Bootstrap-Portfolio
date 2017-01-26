@@ -145,3 +145,8 @@ img#p3{
 img#p4{
 	margin-left: -15px;
 }
+
+.navbar-fixed-bottom {
+	border-top: 10px solid #4aaaa5;
+	border-width: 5px 0 0; 
+}
